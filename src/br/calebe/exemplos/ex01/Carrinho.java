@@ -5,8 +5,6 @@ import java.util.List;
 
 public class Carrinho {
 
-    private int teste;
-    
     private List<Produto> produtos;
 
     public Carrinho() {
